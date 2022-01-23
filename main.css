@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 16px;
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    margin: 0px;
+}
+
+img { 
+    max-width: 800px;
+    border-radius: 5px;
+    min-width: 300px;
+}
+
+h1 {
+    font-weight: 900;
+}
