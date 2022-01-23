@@ -20,6 +20,7 @@ h1 {
 
 @media only screen and (max-width: 600px) {
     img {
-        width: 300px;
+        width: calc(100vw - 32px);
+        margin-left: -40px;
     }
 }
